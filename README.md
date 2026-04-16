@@ -182,7 +182,7 @@ flowchart TD
 
 **Page 2 — Product & Channel Performance**
 
-![Product & Channel](project-1-regional-sales/images/p1_product_channel.png)
+![Product & Channel](project-1-regional-sales/images/p2_product_channel.png)
 
 | Visual | Insight |
 |--------|---------|
@@ -374,10 +374,6 @@ The majority of returns (63.4%) come from items rated "Average" — not "Poor". 
 | 🟡 Medium | Pair Summer promotions with fit and styling guidance | Summer = highest seasonal return volume |
 | 🟡 Medium | Investigate and prepare for August demand spike | 1,429 units vs 27–51 in other months — validate and stock accordingly |
 | 🟢 Tactical | Target Average-rated products for quality improvement | 63.4% of all returns originate from this segment |
-
----
-
-<br>
 
 ---
 
