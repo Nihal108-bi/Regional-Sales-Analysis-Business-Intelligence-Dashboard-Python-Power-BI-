@@ -235,9 +235,9 @@ The dashboard is organised across **3 interactive pages** with cross-filtering v
 
 ## 📬 Contact
 
-**[Your Name]**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**[Nihal Jaiswal]**
+📧 nihaljaisawal1@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/nihal-jaiswal-908b52257/) · [GitHub](https://github.com/Nihal108-bi)
 
 ---
 
